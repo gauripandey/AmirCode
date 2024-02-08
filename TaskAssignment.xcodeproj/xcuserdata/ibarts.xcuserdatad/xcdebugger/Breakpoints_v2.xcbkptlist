@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B4877933-C253-4713-A440-9F9C595BE3BE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "477C7B2C-3BBA-4D82-8D1A-795F522406E4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskAssignment/ViewModel/serverApi.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "ServerApi"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36E8CB66-990C-4979-954A-69A39814B301"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskAssignment/ViewModel/serverApi.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "fatchAPIData(compl:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "36E8CB66-990C-4979-954A-69A39814B301 - 90b241d628dab0c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for TaskAssignment.ServerApi.fatchAPIData() async -&gt; ()"
+                  moduleName = "TaskAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibarts/TaskAssignment/TaskAssignment/ViewModel/serverApi.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "1233">
+               </Location>
+               <Location
+                  uuid = "36E8CB66-990C-4979-954A-69A39814B301 - d9c87acf5d161bc3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for TaskAssignment.ServerApi.fatchAPIData() async -&gt; ()"
+                  moduleName = "TaskAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibarts/TaskAssignment/TaskAssignment/ViewModel/serverApi.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "154">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB9E1B10-37A9-4746-9AC8-B1AD215C7F24"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskAssignment/ViewModel/serverApi.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "fatchAPIData(compl:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BB9E1B10-37A9-4746-9AC8-B1AD215C7F24 - 21e8f71c239d1c18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for TaskAssignment.ServerApi.fatchAPIData(compl: (Swift.Optional&lt;TaskAssignment.TotalData&gt;) -&gt; ()) async -&gt; ()"
+                  moduleName = "TaskAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibarts/TaskAssignment/TaskAssignment/ViewModel/serverApi.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "1637">
+               </Location>
+               <Location
+                  uuid = "BB9E1B10-37A9-4746-9AC8-B1AD215C7F24 - dd43a4bfc682421b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for TaskAssignment.ServerApi.fatchAPIData(compl: (Swift.Optional&lt;TaskAssignment.TotalData&gt;) -&gt; ()) async -&gt; ()"
+                  moduleName = "TaskAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibarts/TaskAssignment/TaskAssignment/ViewModel/serverApi.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "555">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D5A20843-7041-45D1-B287-72D0C710050C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskAssignmentTests/TaskAssignmentTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "test_ServerApi()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
